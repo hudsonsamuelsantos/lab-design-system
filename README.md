@@ -1,7 +1,5 @@
 # Lab Design System
 
-Projeto em desenvolvimento...
-
 ## Acesse o deploy do StoryBook:
 
 https://hudsonsamuelsantos.github.io/lab-design-system/
